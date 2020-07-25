@@ -1,4 +1,4 @@
-# UI-UX
+# Consists of all UI prototypes,i made while learning UI/UX.
 <h2>Expense Manager App (UI):</h2>
 <img src="./Expense Manager App/ExpenseManagerApp.png" height="400px">
 
